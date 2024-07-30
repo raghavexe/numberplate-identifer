@@ -1,0 +1,16 @@
+.card{
+    width: "18rem"
+}
+
+.form-body{
+   padding-right: 3%;
+}
+
+.card-title{
+    display: flex;
+    align-content: last flex-start;
+    font-size: medium;
+    padding-bottom: 4%;
+    font-weight: 1000;
+}
+

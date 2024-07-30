@@ -1,0 +1,26 @@
+body{
+  background-color: cornflowerblue;
+}
+
+
+#site-title {
+  display: flex;
+  align-items: center;
+  gap: 15px; /* Adjust the space between the logo and text as needed */
+}
+
+#Logo {
+  width: 50px; /* Adjust size of the logo as needed */
+  height: auto; /* Maintain aspect ratio */
+}
+
+#title-text {
+  display: flex;
+  flex-direction: column;
+  font-weight: 600;
+  align-items: flex-start; /* Align text to the left */
+}
+
+#title-text > div {
+  margin: 0; /* Remove default margin */
+}

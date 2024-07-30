@@ -1,0 +1,16 @@
+.flag{
+    background-color: white;
+    border: 1px solid black;
+    
+    
+}
+p{
+    font-size: small;
+    display: flex;
+    align-items: flex-start;
+}
+
+#flag-img{
+    height: fit-content;
+    width: fit-content;
+}

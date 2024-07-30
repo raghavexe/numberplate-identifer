@@ -1,0 +1,47 @@
+/* SearchBoard.css */
+.custom-container {
+    padding: 7.1rem; /* Adjust padding value as needed */
+  }
+#form-body{
+  display:flex;
+  justify-content: flex-start;
+  margin-top: 0.1rem;
+  background-color: lightgrey;
+  margin-right: 5rem;
+  padding-bottom: 4%;
+  
+}
+
+#input-box{
+  margin-right: -1rem;
+  width: 60px;
+  border: 1px solid black;
+}
+.search-box-title{
+  display:flex;
+  justify-content: flex-start;
+  font-weight: 700;
+  
+}
+.search-box-strips {
+  display: flex;
+  flex-direction: column;
+  margin-top: -5rem;
+  
+}
+#black{
+  background-color: black ;
+}
+#red{
+  background-color: red ;
+}
+#yellow{
+  background-color: yellow ;
+}
+.strip {
+  width: 10px; /* Width of the strips */
+  padding: 5%;
+  height:100%;
+  margin-left: 90.5%;
+ 
+}
